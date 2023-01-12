@@ -4,7 +4,7 @@ import numpy as np
 from keras.preprocessing import image
 import warnings
 warnings.filterwarnings("ignore")
-from keras.preprocessing.image import load_img, img_to_array 
+from keras_preprocessing.image import load_img, img_to_array 
 from keras.models import  load_model
 import matplotlib.pyplot as plt
 import numpy as np
